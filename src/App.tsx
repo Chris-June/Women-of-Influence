@@ -4,17 +4,17 @@ import { Helmet } from 'react-helmet';
 import { Toaster } from '@/components/ui/sonner';
 import Header from './components/layout/Header';
 import Footer from './components/layout/Footer';
-import Home from './pages/Home';
-import AboutUs from './pages/AboutUs';
-import Newsletter from './pages/Newsletter';
-import Community from './pages/Community';
-import Blog from './pages/Blog';
-import Events from './pages/Events';
-import Resources from './pages/Resources';
-import GetInvolved from './pages/GetInvolved';
-import Login from './pages/Login';
+import Home from './pages/Home/Home';
+import AboutUs from './pages/About/AboutUs';
+import Newsletter from './pages/Newsletter/Newsletter';
+import Community from './pages/Community/Community';
+import Blog from './pages/Blog/Blog';
+import Events from './pages/Events/Events';
+import Resources from './pages/Resources/Resources';
+import GetInvolved from './pages/GetInvolved/GetInvolved';
+import Login from './pages/Login/Login';
 
-// Placeholder components
+
 
 
 
